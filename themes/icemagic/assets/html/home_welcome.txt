@@ -49,7 +49,7 @@
           <div class="container">
             <div class = "row">
               <div class = "col-md-7 col-sm-7 col-xs-12 text-left">
-                <h1>THIS TEMPLATE CAN BE USED FOR ANY BUSINESS</h1>
+                <h1>AAAAAAAAAAAAAAAAAAA</h1>
                 <div class = "desc">It is long established fact that a thrusr reader will be distracted by the readable content.</div>
                 <div class = "buttons">
                   <a href = "" class = "btn btn-lg btn-auqa4">LEARN MORE</a>
