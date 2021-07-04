@@ -1,0 +1,20 @@
+<!-- #video  Area start -->
+      <section class=" video_bg_img" style="background-image:url({{file_url(content.field_background_image['#items'].entity.uri.value)}});">
+         <div class="container py-70">
+            <div class="row">
+               <div class="col-md-6  wow fadeInUp">
+                  <a href="#">
+                  {{content.field_youtube }}
+                  </a>
+               </div>
+               <div class="col-md-6  wow fadeInUp">
+                  <h2 class="wow fadeInUp video_top_h">{{content.field_title.0}}</h2>
+                  {% for key, item in content.field_capabilities if key|first != '#' %}
+                    <p class="left-tabs-text-2"><span><i class="fa fa-check-circle-o"></i></span>  {{ item }} </p>
+                  {% endfor %}
+                 
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- #End video Area start -->

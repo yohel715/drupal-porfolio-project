@@ -1,0 +1,25 @@
+   <!--#Our Partners Area -->
+         <div class="our_partners_area bg_gary py-70 pb_0">
+            <div class="container">
+               <div class="our_partners_h wow fadeInUp">
+                  <h1>{{content.field_title.0}}</h1>
+                  <p>{{content.field_description.0}}</p>
+               </div>
+               <!--#Our Partners assets/images start -->
+               <div class="partners wow fadeInUp">
+                   
+                   {% for item in paragraph.field_client_image %}
+                   <div class="item">
+                         <img src="{{ file_url(item.entity.uri.value) }}" alt="">
+                   </div>
+                   {% endfor %}
+                    
+               </div>
+               <!--#End Our Partners assets/images -->
+               <div class="bottom-partner wow fadeInRight text-center" style="visibility: visible; animation-name: fadeInRight;">
+                  <a id="#services" href="{{ content.field_button.0['#url'] }}" class="btn btn-default  wow fadeInUp  js-scroll-trigger" data-wow-delay=" 0.5s" style="visibility: visible; animation-delay:  0.5s; animation-name: fadeInUp;"><span class="skew_14">{{ content.field_button.0['#title'] }} </span></a>
+               </div>
+            </div>
+         </div>
+     
+      <!--#End Our Partners Area -->

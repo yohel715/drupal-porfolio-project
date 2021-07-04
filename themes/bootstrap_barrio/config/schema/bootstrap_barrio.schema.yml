@@ -88,7 +88,7 @@ bootstrap_barrio.settings:
     bootstrap_barrio_region_class_footer_fifth:
       type: text
       label: 'Classes for Footer fifth region'
-
+  
     # Sidebar position.
     # ----------------------------
     bootstrap_barrio_sidebar_position:
@@ -178,21 +178,6 @@ bootstrap_barrio.settings:
     bootstrap_barrio_messages_widget:
       type: text
       label: 'Messages widget'
-
-    # Form.
-    # ----------------------------
-    bootstrap_barrio_radio:
-      type: text
-      label: 'Radio widget'
-    bootstrap_barrio_checkbox:
-      type: text
-      label: 'Checkbox widget'
-    bootstrap_barrio_select:
-      type: text
-      label: 'Select widget'
-    bootstrap_barrio_file:
-      type: text
-      label: 'File widget'
 
     # Affix.
     # ----------------------------

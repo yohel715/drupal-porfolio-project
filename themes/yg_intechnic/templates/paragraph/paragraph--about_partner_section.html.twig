@@ -1,0 +1,17 @@
+ <!--#Our Partners Area -->
+      <div class="our_partners_area  py-70 pb_0">
+         <div class="container">
+            <div class="our_partners_h  wow fadeInUp">
+               <h1 class="text-left ">{{content.field_title.0}}</h1>
+               <p class="text-left">{{content.field_subtitle.0}}</p>
+            </div>
+            <!--#Our Partners assets/images start -->
+            <div class="partners wow fadeInUp">
+            {% for item in paragraph.field_image %}
+               <div class="item"><img src="{{ file_url(item.entity.uri.value) }}" alt=""></div>
+            {% endfor %}              
+            </div>
+            <!--#End Our Partners assets/images -->
+         </div>
+      </div>
+      <!--#End Our Partners Area -->

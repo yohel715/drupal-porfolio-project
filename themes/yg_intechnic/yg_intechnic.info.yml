@@ -1,0 +1,36 @@
+name: 'YG Intechnic'
+description: 'YG Technic is a Drupal 8 theme perfect for technology related websites'
+core_version_requirement: ^8 || ^9
+type: theme
+base theme: classy
+screenshot: yg_intechnic.png
+
+
+regions:
+  logo: 'logo'
+  navigation: 'Navigation'
+  primary_menu: 'primary_menu'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  slider: 'slider'
+  title: 'title'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  contact: 'contact'
+  map: 'map'
+  footer: 'footer'
+  footer_col_1: footer column 1
+  footer_col_2: footer column 2
+  footer_col_3: footer column 3
+  contact: 'Contact Form'
+
+
+libraries:
+
+  - yg_intechnic/global-css 
+  - yg_intechnic/global-js
+# Information added by Drupal.org packaging script on 2020-08-24
+version: '2.0.0'
+project: 'yg_intechnic'
+datestamp: 1598275689
