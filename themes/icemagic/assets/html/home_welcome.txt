@@ -15,7 +15,7 @@
             <div class = "row">
               <div class = "col-md-7 col-sm-7 col-xs-12 text-left">
                 <div class = "desc">Hola! Soy</div>
-                <h1>Yohel Ureña Mora</h1>
+                <h1>Yohel  Mora</h1>
                 <div class = "desc">Desarrollador front-end junior, Diseñador en UI/UX y Diseñador Gráfico</div>
                 <div class = "buttons">
                   <a href = "" class = "btn btn-lg btn-auqa4">LEARN MORE</a>
