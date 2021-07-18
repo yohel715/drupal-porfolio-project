@@ -38,7 +38,7 @@ mbase_addbscsscdn: >
 mbase_addbsjsscdn: >
   https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
 mbase_include_cdn_css: |
-  https://maxcdn.bootstrapcdn.com/font-awesome/5.15/css/font-awesome.min.css
+  https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css
   https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700
 mbase_include_cdn_js: ""
 mbase_excludes_css:
