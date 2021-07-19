@@ -113,6 +113,9 @@
   .nav .open>a:focus {
     border-color: none;
   }
+  #portoflio_img{
+    width: 737px !important;
+  }
 }
 @media (min-width: 768px) and (max-width: 992px) {
   a.navbar-brand.name {
