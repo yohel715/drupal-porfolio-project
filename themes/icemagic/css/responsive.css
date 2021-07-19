@@ -6,6 +6,12 @@
   }
 }
 
+@media (max-width: 768px){
+  #portoflio_img{
+    width: 345px !important;
+  }
+}
+
 @media (max-width: 425px){
   #portoflio_img{
     width: 395px !important;
