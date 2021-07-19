@@ -443,3 +443,8 @@ header#navbar .aqua-scrolled {
 #portoflio_img{
   width: 262px;
 }
+
+.pdf-reader{
+  width: 900px !important;
+  height: 680px !important;
+}
