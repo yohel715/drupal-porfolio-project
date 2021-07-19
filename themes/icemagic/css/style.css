@@ -444,7 +444,7 @@ header#navbar .aqua-scrolled {
   width: 262px;
 }
 
-.pdf-reader{
+#pdf-reader{
   width: 900px !important;
   height: 680px !important;
 }
