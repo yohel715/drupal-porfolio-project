@@ -167,9 +167,6 @@
     padding-top: 10px;
     padding-bottom: 0px;
   }
-  #portoflio_img{
-    width: 345px !important;
-  }
 }
 @media (min-width: 991px) and (max-width: 1199px) {
   .header-aqua-slider h1 {
@@ -191,9 +188,6 @@
     left: 5%;
     padding-top: 10px;
     padding-bottom: 0px;
-  }
-  #portoflio_img{
-    width: 262px !important;
   }
 }
 
