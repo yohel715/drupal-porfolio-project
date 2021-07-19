@@ -11,8 +11,8 @@
         <div class="col-sm-6 col-md-3 col-xs-12 content-box">
           <div class="content-box-inner">
             <h4 class="title">Tuanis Rides CR</h4>
+            <img src="/themes/icemagic/assets/images/tuanisridescr.png" data-src="" id="portoflio_img" alt="Portfolio img 1">
             <div class="details">
-              <img src="/themes/icemagic/assets/images/tuanisridescr.png" data-src="" alt="Portfolio img 1">
               <div class="desc">
                 Logotipo para una pequeña empresa empredendora llamada Tuanis Rides CR, ofrecen servicios turísticos.
               </div>
