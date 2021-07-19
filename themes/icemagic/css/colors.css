@@ -103,6 +103,11 @@ a,
 .help-block {
   color: #62c2f2;
 }
+
+/*Footer likns*/
+.block-content, .footer-message-content, .text-center > a, ul, li{
+  color: #ffffff !important;
+}
 .mbc-link-bg,
 .header-aqua-slider .carousel-indicators li,
 .btn-auqa3,
