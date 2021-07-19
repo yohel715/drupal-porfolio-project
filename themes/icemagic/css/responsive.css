@@ -19,6 +19,10 @@
   #portoflio_img{
     width: 345px !important;
   }
+  .pdf-reader{
+    width: 360px !important;
+    height: 680px !important;
+  }
 }
 
 /*Mobile M*/
