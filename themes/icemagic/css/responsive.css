@@ -1,5 +1,29 @@
 /*-------------------Header Auqa starts-------------------*/
 
+@media (max-width: 1024px){
+  #portoflio_img{
+    width: 212px !important;
+  }
+}
+
+@media (max-width: 425px){
+  #portoflio_img{
+    width: 395px !important;
+  }
+}
+
+@media (max-width: 375px){
+  #portoflio_img{
+    width: 345px !important;
+  }
+}
+
+@media (max-width: 320px){
+  #portoflio_img{
+    width: 290px !important;
+  }
+}
+
 @media (max-width: 767px) {
   body.mbase-child-theme header#navbar,
   .navbar-brand {
