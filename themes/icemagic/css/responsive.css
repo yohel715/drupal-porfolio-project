@@ -17,14 +17,14 @@
 /*Mobile L*/
 @media (max-width: 425px){
   #portoflio_img{
-    width: 395px !important;
+    width: 390px !important;
   }
 }
 
 /*Mobile M*/
 @media (max-width: 375px){
   #portoflio_img{
-    width: 345px !important;
+    width: 395px !important;
   }
 }
 
