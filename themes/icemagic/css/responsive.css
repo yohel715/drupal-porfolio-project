@@ -15,14 +15,14 @@
 }
 
 /*Mobile L*/
-@media (min-width: 376px) and (max-width: 425px){
+@media (max-width: 425px){
   #portoflio_img{
     width: 395px !important;
   }
 }
 
 /*Mobile M*/
-@media (min-width: 321px) and (max-width: 375px){
+@media (max-width: 375px){
   #portoflio_img{
     width: 345px !important;
   }
